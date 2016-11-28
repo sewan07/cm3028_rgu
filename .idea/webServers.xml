@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2969b5da-390c-4b41-9c5b-10c8725b8df2" name="us-cdbr-azure-southcentral-f.cloudapp.net" url="http://us-cdbr-azure-southcentral-f.cloudapp.net">
+        <fileTransfer host="us-cdbr-azure-southcentral-f.cloudapp.net" port="3306">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="3306" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
